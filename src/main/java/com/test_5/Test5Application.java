@@ -8,6 +8,10 @@ public class Test5Application {
 
 	public static void main(String[] args) {
 
+             if (String K =="welcome"){
+             System.out.println(100);
+             "remaining work is done";
+      }
 		int a=100;
 		String k="Hello world";
 //error
