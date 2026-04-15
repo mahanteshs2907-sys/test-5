@@ -11,7 +11,7 @@ public class Test5Application {
 		int a=100;
 		String k="Hello world";
 
-		char='A';
+		String="Here Now I Done Git Conflict In The Same Line";
 		
 		SpringApplication.run(Test5Application.class, args);
 	}
