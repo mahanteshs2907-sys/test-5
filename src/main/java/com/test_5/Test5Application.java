@@ -7,6 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
+
+		int a=100;
+		String k="Hello world";
+
+		char='A';
+		
 		SpringApplication.run(Test5Application.class, args);
 	}
 
