@@ -13,8 +13,8 @@ public class Test5Application {
 
 		String="Here Now I Done Git Conflict In The Same Line";
 
-		char='B';
-
+		char h='B';
+        String o ="vishal";
 		boolean=true;
 
 		SpringApplication.run(Test5Application.class, args);
