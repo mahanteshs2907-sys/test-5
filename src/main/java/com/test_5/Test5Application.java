@@ -15,6 +15,7 @@ public class Test5Application {
 
 		char h='B';
         String o ="vishal";
+        double a=10.44;
 		boolean=true;
 
 		SpringApplication.run(Test5Application.class, args);
