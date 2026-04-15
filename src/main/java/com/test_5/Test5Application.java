@@ -12,7 +12,7 @@ public class Test5Application {
 		String k="Hello world";
 
 		String="Here Now I Done Git Conflict In The Same Line";
-		
+		char='B';
 		SpringApplication.run(Test5Application.class, args);
 	}
 
