@@ -14,6 +14,7 @@ public class Test5Application {
 		String="Here Now I Done Git Conflict In The Same Line";
 
 		char h='B';
+        String o ="vishal";
         double a=10.44;
 		boolean=true;
 
